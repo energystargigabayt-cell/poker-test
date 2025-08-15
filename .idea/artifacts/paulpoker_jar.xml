@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paulpoker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/paulpoker_jar</output-path>
+    <root id="archive" name="paulpoker.jar">
+      <element id="module-output" name="paulpoker" />
+    </root>
+  </artifact>
+</component>
